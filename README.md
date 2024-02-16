@@ -2,7 +2,7 @@
 
 ## Overview
 
-RentPredictor is a project focused on training an intelligent Artificial Neural Network (ANN) model using the Nairobi Office Price Simulated dataset. The objective is to predict the office price when the size is 100 sq. ft. in Nairobi. The project falls under the category of Regression, specifically Linear Regression. The chosen Machine Learning (ML) model is an ANN, and Mean Squared Error (MSE) is used as the performance measure technique. The learning algorithm employed is the Adam Optimizer.
+RentPredictor is project end of 3rd year focused on training an intelligent Artificial Neural Network (ANN) model using the Nairobi Office Price Simulated dataset. The objective is to predict the office price when the size is 100 sq. ft. in Nairobi. The project falls under the category of Regression, specifically Linear Regression. The chosen Machine Learning (ML) model is an ANN, and Mean Squared Error (MSE) is used as the performance measure technique. The learning algorithm employed is the Adam Optimizer.
 
 ## Dataset
 
