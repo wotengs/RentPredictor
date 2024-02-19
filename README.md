@@ -6,7 +6,7 @@ RentPredictor is project end of 3rd year focused on training an intelligent Arti
 
 ## Dataset
 
-The dataset used in this project is the Nairobi Office Price Simulated dataset. You can find a screenshot of the dataset in the "screenshots" folder, named "dataset_screenshot.png."
+The dataset used in this project is the csv file Nairobi Office Price Simulated dataset.  You can find it in the project folder or the screenshot of it is below you can check it out
 
 ## ML Model Details
 
